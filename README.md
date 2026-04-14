@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=GAPWEALTH&fontSize=40&fontColor=blue
 # Hi, I'm David Solomon
 
 ## About Me
